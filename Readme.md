@@ -4,12 +4,15 @@ Here we store our homemade footprints and 3dshapes for Kicad
 
 # How do I use it ?
 
-You have to download two folders :
+You have to download 3 folders :
 
 	PJ_Components.3dshapes and place it in Kicad/share/kicad/modules/packages3d/
 	PJ_Footprints.pretty and place it where you want
+	PJ_Library and place it where you want
 	
 For now it's not possible to use it directly from our git :/
+
+You have to specify where the PJ_Footprints.pretty folder is and do the same for the pj_library.lib file in the PJ_Library folder.
 
 # How do I contribute ?
 
